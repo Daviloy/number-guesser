@@ -1,0 +1,27 @@
+@font-face{
+    src: url('../fonts/roboto-condensed.light.ttf');
+    font-family: 'Roboto Condensed';
+    font-weight: 400;
+}
+
+body{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+}
+
+.container{
+    text-align: center;
+}
+
+h2{
+    margin-top: 20px;
+}
+
+label{
+    font-weight: normal;
+}
+
+input, select{
+    font-family: 'Roboto Condensed', sans-serif;
+    font-size: 18px;
+}
